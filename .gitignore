@@ -1,0 +1,4 @@
+*.log
+kernos_backups/
+kernos_reports/
+.DS_Store
