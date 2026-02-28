@@ -3,7 +3,7 @@
 #  KERNOS — Your Linux Learning Companion
 #  From zero to DevOps Engineer. One challenge at a time.
 #
-#  github.com/yourname/kernos
+#  github.com/shadymagdy-devops/kernos
 # ═══════════════════════════════════════════════
 
 KERNOS_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"

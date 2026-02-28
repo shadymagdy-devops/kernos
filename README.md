@@ -25,7 +25,7 @@ That's it. Kernos starts an interactive session right in your terminal.
     ██╗  ██╗███████╗██████╗ ███╗   ██╗ ██████╗ ███████╗
     ...
 
-    Hello, Ahmed  —  [ APPRENTICE ]
+    Hello, Shady  —  [ APPRENTICE ]
     [████████████░░░░░░░░░░░░░░░░░░] 412/600 XP
 
     LEARNING PATH
@@ -135,7 +135,7 @@ Not in the mood for structured learning? Free Mode lets you explore any topic:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kernos.git
+git clone https://github.com/shadymagdy-devops/kernos.git
 cd kernos
 bash install.sh
 source ~/.bashrc
@@ -166,3 +166,10 @@ And because reading the source code of Kernos itself is a Linux education. Every
 ## License
 
 MIT — fork it, improve it, share it.
+
+## Author
+
+**Shady Magdy** — DevOps & Cloud Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shady%20Magdy-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shady-magdy-702b03231/)
+[![GitHub](https://img.shields.io/badge/GitHub-shadymagdy--devops-181717?style=flat-square&logo=github)](https://github.com/shadymagdy-devops)
